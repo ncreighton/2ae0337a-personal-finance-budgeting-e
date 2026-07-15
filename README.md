@@ -1,2 +1,28 @@
-# 2ae0337a-personal-finance-budgeting-e
-Built for personal finance professionals who are tired of switching between tabs and losing context.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Personal Finance &amp; Budgeting Email Template And Sequence Builder — fully configured and read
+# Personal Finance & Budgeting Email Template and Sequence Builder Chrome Extension
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic functionality | Yes | Yes |
+| Community support | Yes | Yes |
+| Standard features | Yes | Yes |
+| Advanced automation | - | Yes |
+| Priority support | - | Yes |
+| Custom configurations | - | Yes |
+| Auto-updates | - | Yes |
+| Premium integrations | - | Yes |
+| Unlimited usage | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/14AdR9eTt9Mwf44fQ8cZM16)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/14AdR9eTt9Mwf44fQ8cZM16)
+
